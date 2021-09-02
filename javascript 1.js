@@ -2,6 +2,10 @@ let message;
 message = 'Hello World';
 console.log(message);
 
+let people;
+people = 2;
+console.log(people);
+
 let admin, name;
 name = 'Ali';
 admin = name;
